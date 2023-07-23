@@ -34,7 +34,6 @@ The project aims to address food insecurity and minimize food wastage by providi
 
 - Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, and AJAX
 - Backend: Node.js, Express.js
-- Database: NoSQL (MongoDB)
 
 ## Getting Started
 
