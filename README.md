@@ -91,7 +91,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or need further assistance, feel free to contact the project maintainers:
 
-- Name: [Your Name](https://github.com/csharshtiwari)
+- Name: [Harsh Tiwari](https://github.com/csharshtiwari)
 - Email: harsh2018cs176abesit@gmail.com
 
 For bug reports, feature requests, and general inquiries, please open an issue in the [GitHub repository](https://github.com/csharshtiwari/fooddonationwebsite).
